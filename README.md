@@ -1,4 +1,4 @@
-<!DOCTYPE HTML>
+
 <htmL>
 
 <TITLE> My first Page      </TITLE>
