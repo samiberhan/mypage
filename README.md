@@ -27,7 +27,7 @@ Network administration and security </p>
 
  
 <IMG SRC="https://www.w3.org/html/logo/">
-</picture>
+
 
 
 
