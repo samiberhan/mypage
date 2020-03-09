@@ -25,11 +25,7 @@ Network administration and security </p>
 <p>A Computer Systems Technician –<br> Software Engineering diploma is exceptionally marketable in our rapidly changing computer-driven world.
     <b> Java </b>, C and <strong>C# </strong></p>
 
- <picture> 
- <source srcset="pic.png" media="(max-width:1500px)">
- <source srcset="??.png" media="(max-width:600px)">
- <source srcset="?.png" media="(max-width:200px)">
-<source srcset= .png" >
+ 
 <IMG SRC="pic.png">
 </picture>
 
