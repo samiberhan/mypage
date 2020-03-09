@@ -25,10 +25,10 @@ Network administration and security </p>
 <p>A Computer Systems Technician –<br> Software Engineering diploma is exceptionally marketable in our rapidly changing computer-driven world.
     <b> Java </b>, C and <strong>C# </strong></p>
 
+
+
+
  
-
-
-
 
 
 <p> My name is Sami </p>
