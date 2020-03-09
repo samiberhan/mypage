@@ -26,7 +26,7 @@ Network administration and security </p>
     <b> Java </b>, C and <strong>C# </strong></p>
 
  
-<IMG SRC="pic.png">
+<IMG SRC="https://www.w3.org/html/logo/">
 </picture>
 
 
